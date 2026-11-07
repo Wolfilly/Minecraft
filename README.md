@@ -1,1 +1,1 @@
-# minecraft.github.io
+# Minecraft
